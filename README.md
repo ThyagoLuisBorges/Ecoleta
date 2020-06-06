@@ -47,7 +47,7 @@ O layout da aplicação está disponível no Figma:
 
 ### Mobile
 
-<p align="left">
+<p align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://user-images.githubusercontent.com/49486830/83950326-4471da80-a800-11ea-8bfb-3bad75e36578.png" width="200px">
 </p>
 
