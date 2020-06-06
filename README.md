@@ -1,30 +1,10 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/banner.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://user-images.githubusercontent.com/49486830/83950389-d548b600-a800-11ea-8197-7e13220b71c8.png" />
 </h1>
 
 <h4 align="center"> 
-	🚧 NextLevelWeek 1.0 🚀 🚧
+	NextLevelWeek 1.0 🚀 
 </h4>
-
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leon-carvalho/Ecoleta?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leon-carvalho/Ecoleta">
-
-  <a href="https://www.linkedin.com/in/leonardo-dev/">
-    <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/made%20by-leon--carvalho-%2304D361">
-  </a>
-	
-  
-  <a href="https://github.com/leon-carvalho/Ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leon-carvalho/Ecoleta">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/leon-carvalho/Ecoleta/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/leon-carvalho/Ecoleta?style=social">
-  </a>
-</p>
 
 ## 💻 Sobre o projeto
 
@@ -59,20 +39,16 @@ O layout da aplicação está disponível no Figma:
   <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
-### Mobile
-
-<p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/home-mobile.png" width="200px">
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/detalhes-mobile.svg" width="200px">
-</p>
-
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/web.svg" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://user-images.githubusercontent.com/49486830/83950295-12f90f00-a800-11ea-9532-ba37e324d4b9.png" width="800px">
+</p>
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/sucesso-web.svg" width="400px">
+### Mobile
+
+<p align="left">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://user-images.githubusercontent.com/49486830/83950326-4471da80-a800-11ea-8bfb-3bad75e36578.png" width="200px">
 </p>
 
 ## 🛠 Tecnologias
@@ -105,19 +81,19 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/leon-carvalho/Ecoleta
+$ git clone https://github.com/ThyagoLuisBorges/Ecoleta
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Ecoleta
 
 # Vá para a pasta server
-$ cd server
+$ cd backend
 
 # Instale as dependências
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+$ npm run dev
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333
 ```
@@ -126,13 +102,13 @@ $ npm run dev:server
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/leon-carvalho/Ecoleta
+$ git clone https://github.com/ThyagoLuisBorges/Ecoleta
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd Ecoleta
 
 # Vá para a pasta da aplicação Front End
-$ cd web
+$ cd frontend
 
 # Instale as dependências
 $ npm install
@@ -145,7 +121,27 @@ $ npm run start
 
 ### 📱Rodando a aplicação mobile
 
-🚧 Em construção... 🚧
+```bash
+# Clone este repositório
+$ git clone https://github.com/ThyagoLuisBorges/Ecoleta
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd Ecoleta
+
+# Vá para a pasta da aplicação Front End
+$ cd mobile
+
+# Instale o Expo
+$ npm install -g expo-cli
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run start
+
+# Será necessário o uso do seu ip ao invés de localhost
+```
 
 ## 😯 Como contribuir para o projeto
 
@@ -159,7 +155,7 @@ $ npm run start
 
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA](license) para saber mais.
 
-Feito com ❤️ por Leonardo Carvalho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leonardo-dev/)
+Feito com ❤️ por Thyago Luis Borges 👋🏽 [Entre em contato!](https://www.linkedin.com/in/thyagoluisborges/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
